@@ -260,6 +260,9 @@ with st.sidebar:
     - **Models:** CNN, XGBoost, Hybrid
     - **Explainability:** SHAP
     - **Deployment:** Real-time Ready
+    - **Designed and Developed by : Stella Ajayi
+    - **Msc Cybersecurity. NDA
+    - **Supervisor -  
     """)
 
 # ============================================
@@ -1162,6 +1165,6 @@ with col2:
     st.markdown("""
     <div style='text-align: center; color: gray;'>
         <p>🛡️ ZeroTrust Malware Detector v2.0 | Machine Learning-Enhanced Zero Trust Architecture</p>
-        <p>© 2024 | For Hybrid Enterprise Networks</p>
+        <p>© 2026 | For Hybrid Enterprise Networks by Stella Ajayi</p>
     </div>
     """, unsafe_allow_html=True)
